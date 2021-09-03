@@ -448,10 +448,10 @@ if (Config.WORKTYPE == 'public') {
     var r_text = new Array ();
 
         r_text[1] = "https://i.imgur.com/9iPtsLN.jpeg";
-        r_text[2] ="https://i.imgur.com/q45bhyc.jpeg";
-        r_text[3] ="https://i.imgur.com/BYDQ7E6.jpeg";
-        r_text[4] ="https://i.imgur.com/1tLypoZ.jpeg";
-        r_text[5] ="https://i.imgur.com/8Vl4aHJ.jpeg";
+
+
+
+        
         
 var i = Math.floor(06*Math.random())
 var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })

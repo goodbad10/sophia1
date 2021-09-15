@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*owner Althaf Rahman - http://Wa.me/+918592803101*\n* *\n🔰instagram:- https://www.instagram.com/althaf404_ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
+    r_text[1] = "*owner goodbad10 - http://Wa.me/+91 80890 69670*\n* *\n🔰instagram:- https://www.instagram.com/yasi_yaseen-01 *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Owner Althaf Rahman═💥*\n\n*💘 https://github.com/althaf404/v4*\n*     *\n follow on Instagram- https://www.instagram.com/althaf404_*"
+        r_text[1] = "*Git links*\n           *\n💥═Owner goodbad10 ═💥*\n\n*💘 https://github.com/althaf404/v4*\n*     *\n follow on Instagram- https://www.instagram.com/althaf404_*"
 
     
 

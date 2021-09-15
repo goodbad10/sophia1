@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*owner goodbad10 - http://Wa.me/+91 80890 69670*\n* *\n🔰instagram:- https://www.instagram.com/yasi-yaseen-01_ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
+    r_text[1] = "*owner goodbad10 - http://Wa.me+91 80890 69670*\n* *\n🔰instagram:- https://www.instagram.com/yasi-yaseen-01_ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: goodbad10*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Owner godbad10═💥*\n\n*💘 https://github.com/yasi-yaseen-01/v4*\n*     *\n follow on Instagram- https://www.instagram.com/althaf404_*"
+        r_text[1] = "*Git links*\n           *\n💥═Owner godbad10═💥*\n\n*💘 https://github.com/yasi-yaseen-01/v4*\n*     *\n follow on Instagram- https://www.instagram.com/yasi_yaseen-01*"
 
     
 
